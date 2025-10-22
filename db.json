@@ -31,7 +31,18 @@
       "date": "July 22, 2022",
       "time": "11:00",
       "petsAllowed": false,
-      "organizer": "Carey Wales"
+      "organizer": "Carey Wafer"
+    },
+    {
+      "id": 3254769,
+      "category": "environment",
+      "title": "Tree Planting Event",
+      "description": "Contribute to a greener future by planting trees.",
+      "location": "Greenville",
+      "date": "October 5, 2022",
+      "time": "9:00",
+      "petsAllowed": false,
+      "organizer": "Judy Green"
     }
   ]
 }
